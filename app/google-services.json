@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "767506726052",
+    "project_id": "expense-tracker-85a34",
+    "storage_bucket": "expense-tracker-85a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767506726052:android:e7d6c32dc3ce32beb5ba31",
+        "android_client_info": {
+          "package_name": "com.example.personalexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767506726052-qjblba250r38632rnckduv4qv93gk6ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrQyza567D4ygOM1MBRae9v_LuINetJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767506726052-qjblba250r38632rnckduv4qv93gk6ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767506726052:android:207b94dd6447743ab5ba31",
+        "android_client_info": {
+          "package_name": "com.joel.personalexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767506726052-na0qs48giepb22p93o31pc0k11t9ig93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joel.personalexpensetracker",
+            "certificate_hash": "99c3630f63d7c0fc06f18df37cbd73471326a385"
+          }
+        },
+        {
+          "client_id": "767506726052-qjblba250r38632rnckduv4qv93gk6ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrQyza567D4ygOM1MBRae9v_LuINetJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767506726052-qjblba250r38632rnckduv4qv93gk6ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
